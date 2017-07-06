@@ -1,1 +1,15 @@
-This Document will contain a basic description of Website
+Description :
+
+Comments : This Document will contain a basic description of Website
+
+Website Link (Staging) : nexgweb.nexg.tv/nexgtvnew/index5.htm
+Website Link (LIVE) : www.nexgtv.com
+
+Sections :
+1. HOME
+2. LIVE TV
+3. MOVIES
+4. TV SHOWS
+5. VIDEOS
+6. ORIGINALS
+
